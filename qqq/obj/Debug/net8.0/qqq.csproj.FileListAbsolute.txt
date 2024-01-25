@@ -1,0 +1,14 @@
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.AssemblyInfoInputs.cache
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.AssemblyInfo.cs
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.csproj.CoreCompileInputs.cache
+C:\Users\Ivanr\source\repos\qqq\qqq\bin\Debug\net8.0\qqq.exe
+C:\Users\Ivanr\source\repos\qqq\qqq\bin\Debug\net8.0\qqq.deps.json
+C:\Users\Ivanr\source\repos\qqq\qqq\bin\Debug\net8.0\qqq.runtimeconfig.json
+C:\Users\Ivanr\source\repos\qqq\qqq\bin\Debug\net8.0\qqq.dll
+C:\Users\Ivanr\source\repos\qqq\qqq\bin\Debug\net8.0\qqq.pdb
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.dll
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\refint\qqq.dll
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.pdb
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\qqq.genruntimeconfig.cache
+C:\Users\Ivanr\source\repos\qqq\qqq\obj\Debug\net8.0\ref\qqq.dll
